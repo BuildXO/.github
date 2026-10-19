@@ -1,51 +1,103 @@
-<div align="center">
+ <div align="center">
 
 # 🛠️ BuildXO
 
-**Open-source developer tools for people who live in their editor.**
+### Developer tools built for people who live in their editor.
 
-[![Sponsor BuildXO](https://img.shields.io/badge/Sponsor-BuildXO-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/BuildXO)
-[![VS Code extensions](https://img.shields.io/badge/VS%20Code%20extensions-2-007ACC?logo=visual-studio-code)](https://marketplace.visualstudio.com/publishers/LunaCode)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/BuildXO)
+Open-source VS Code extensions designed to make your workflow more creative, productive, and enjoyable.
+
+<br/>
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-BuildXO-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/BuildXO)
+[![VS Code Marketplace](https://img.shields.io/badge/VS_Code-Extensions-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://marketplace.visualstudio.com/publishers/LunaCode)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/BuildXO)
 
 </div>
 
 ---
 
-## 🚀 Our projects
+## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎌 <a href="https://github.com/BuildXO/anime-theme-pack">Anime Theme Pack</a></h3>
-      <p><b>9 immersive anime-inspired dark themes</b> for VS Code — Jujutsu Kaisen, Attack on Titan, Naruto, One Piece, Demon Slayer, My Hero Academia, Cyberpunk Edgerunners, Akira &amp; Anime Classics. 200+ color definitions per theme, animated background support, and full UI customization.</p>
-      <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.anime-theme"><img src="https://badgen.net/vs-marketplace/v/LunaCode.anime-theme" alt="Version"/></a>
-      <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.anime-theme"><img src="https://badgen.net/vs-marketplace/i/LunaCode.anime-theme" alt="Installs"/></a>
-      <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.anime-theme"><img src="https://badgen.net/vs-marketplace/rating/LunaCode.anime-theme" alt="Rating"/></a>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/BuildXO/anime-theme-pack/master/images/screenshots/jjk-gojo.png" alt="Anime Theme Pack — Jujutsu Kaisen theme" width="100%"/>
-    </td>
-    <td width="50%">
-      <h3>📐 <a href="https://github.com/BuildXO/archsvg">ArchSVG</a></h3>
-      <p><b>Production-ready SVG diagrams, inside VS Code.</b> Generate clean flowcharts and architecture diagrams with theme presets — no bloated UI, no cloud services. Generate → Preview → Export → Insert.</p>
-      <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.archsvg"><img src="https://badgen.net/vs-marketplace/v/LunaCode.archsvg" alt="Version"/></a>
-      <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.archsvg"><img src="https://badgen.net/vs-marketplace/i/LunaCode.archsvg" alt="Installs"/></a>
-      <br/><br/>
-      <img src="https://raw.githubusercontent.com/BuildXO/archsvg/main/images/demo-flowchart-dark.png" alt="ArchSVG — flowchart generated in VS Code" width="100%"/>
-    </td>
-  </tr>
-</table>
+Tools built to improve your development experience, right inside VS Code.
+
+### 🎌 [Anime Theme Pack](https://github.com/BuildXO/anime-theme-pack)
+
+**Transform your editor into your favorite anime universe.**
+
+A collection of **9 immersive anime-inspired dark themes** featuring Jujutsu Kaisen, Attack on Titan, Naruto, One Piece, Demon Slayer, My Hero Academia, Cyberpunk: Edgerunners, Akira, and Anime Classics.
+
+- 🎨 200+ color definitions per theme
+- 🌌 Animated background support
+- ⚙️ Extensive editor and UI customization
+- 🖤 Carefully designed dark aesthetics
+
+[![Version](https://badgen.net/vs-marketplace/v/LunaCode.anime-theme)](https://marketplace.visualstudio.com/items?itemName=LunaCode.anime-theme)
+[![Installs](https://badgen.net/vs-marketplace/i/LunaCode.anime-theme)](https://marketplace.visualstudio.com/items?itemName=LunaCode.anime-theme)
+[![Rating](https://badgen.net/vs-marketplace/rating/LunaCode.anime-theme)](https://marketplace.visualstudio.com/items?itemName=LunaCode.anime-theme)
+
+<div align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.anime-theme">
+    <img src="https://raw.githubusercontent.com/BuildXO/anime-theme-pack/master/images/screenshots/jjk-gojo.png" alt="Anime Theme Pack — Jujutsu Kaisen Gojo theme" width="100%" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.anime-theme"><strong>Explore Anime Theme Pack →</strong></a>
+</p>
 
 ---
 
-## 💖 Support BuildXO
+### 📐 [ArchSVG](https://github.com/BuildXO/archsvg)
 
-BuildXO is independent open source. Sponsorships go directly into maintaining these extensions, fixing bugs faster, and building new tools.
+**Beautiful, production-ready diagrams. Generated right inside VS Code.**
 
-**[💖 Sponsor BuildXO on GitHub Sponsors](https://github.com/sponsors/BuildXO)**
+Create clean flowcharts and software architecture diagrams with customizable theme presets. No bloated interfaces, no cloud dependencies — just a focused workflow from idea to export.
+
+- 📊 Generate flowcharts and architecture diagrams
+- 🎨 Theme presets for polished, consistent visuals
+- 👀 Preview diagrams before exporting
+- 📦 Export SVGs ready for documentation and projects
+- 🔒 A local-first workflow without cloud services
+
+[![Version](https://badgen.net/vs-marketplace/v/LunaCode.archsvg)](https://marketplace.visualstudio.com/items?itemName=LunaCode.archsvg)
+[![Installs](https://badgen.net/vs-marketplace/i/LunaCode.archsvg)](https://marketplace.visualstudio.com/items?itemName=LunaCode.archsvg)
+
+<div align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.archsvg">
+    <img src="https://raw.githubusercontent.com/BuildXO/archsvg/main/images/demo-flowchart-dark.png" alt="ArchSVG — flowchart generated inside VS Code" width="100%" />
+  </a>
+</div>
+
+<p align="center">
+  <strong>Generate → Preview → Export → Insert</strong>
+  <br/>
+  <a href="https://marketplace.visualstudio.com/items?itemName=LunaCode.archsvg">Explore ArchSVG →</a>
+</p>
+
+---
+
+## 💖 Support independent open source
+
+BuildXO is an independent open-source initiative. Your support helps us maintain our extensions, fix bugs, improve existing features, and build new tools for developers.
+
+<div align="center">
+
+[![Sponsor BuildXO](https://img.shields.io/badge/💖_Sponsor_BuildXO-Support_Independent_Open_Source-ea4aaa?style=for-the-badge)](https://github.com/sponsors/BuildXO)
+
+Every contribution helps us build better tools for the developer community.
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/BuildXO">BuildXO</a> · MIT licensed · <a href="https://marketplace.visualstudio.com/publishers/LunaCode">Published as LunaCode on the VS Code Marketplace</a></sub>
+
+### Built for developers.
+
+**[BuildXO](https://github.com/BuildXO)** · MIT Licensed
+
+[GitHub](https://github.com/BuildXO) · [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/LunaCode) · [Sponsor](https://github.com/sponsors/BuildXO)
+
+<sub>Open-source tools. Better workflows. More enjoyable coding.</sub>
+
 </div>
