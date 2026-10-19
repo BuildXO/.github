@@ -4,8 +4,6 @@
 
 **Open-source developer tools for people who live in their editor.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EA4AAA&center=true&vCenter=true&width=600&lines=Anime-inspired+VS+Code+themes;SVG+diagrams%2C+right+in+your+editor;Built+by+developers%2C+for+developers)](https://github.com/BuildXO)
-
 [![Sponsor BuildXO](https://img.shields.io/badge/Sponsor-BuildXO-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/BuildXO)
 [![VS Code extensions](https://img.shields.io/badge/VS%20Code%20extensions-2-007ACC?logo=visual-studio-code)](https://marketplace.visualstudio.com/publishers/LunaCode)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/BuildXO)
